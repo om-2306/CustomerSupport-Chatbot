@@ -1,0 +1,2 @@
+# Optional: the chatbot runs without external packages, but uses NLTK when installed.
+nltk>=3.8

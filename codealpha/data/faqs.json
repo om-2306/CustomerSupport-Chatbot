@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is LearnMate?",
+    "answer": "LearnMate is an online learning platform where students can enroll in courses, watch lessons, complete quizzes, and earn certificates.",
+    "tags": ["platform", "overview", "online courses"]
+  },
+  {
+    "question": "How do I create a LearnMate account?",
+    "answer": "Select Sign Up, enter your name and email address, create a password, and verify your email to activate the account.",
+    "tags": ["signup", "registration", "account"]
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Use the Forgot Password link on the login page. LearnMate will email you a secure link to create a new password.",
+    "tags": ["login", "password", "account recovery"]
+  },
+  {
+    "question": "Are courses free or paid?",
+    "answer": "LearnMate offers both free and paid courses. Paid courses display their price before enrollment, and free courses can be started immediately.",
+    "tags": ["pricing", "free", "paid"]
+  },
+  {
+    "question": "How do I enroll in a course?",
+    "answer": "Open the course page and choose Enroll. If the course is paid, complete the payment step before the course appears in your dashboard.",
+    "tags": ["enrollment", "course", "dashboard"]
+  },
+  {
+    "question": "Which payment methods are accepted?",
+    "answer": "LearnMate accepts major credit cards, debit cards, UPI, and net banking where supported by the payment gateway.",
+    "tags": ["payment", "billing", "upi", "cards"]
+  },
+  {
+    "question": "Can I get a refund for a course?",
+    "answer": "Refunds are available within seven days of purchase if less than 20 percent of the course has been completed.",
+    "tags": ["refund", "billing", "purchase"]
+  },
+  {
+    "question": "How do I download my certificate?",
+    "answer": "After finishing all required lessons and assessments, open the completed course and select Download Certificate.",
+    "tags": ["certificate", "completion", "download"]
+  },
+  {
+    "question": "Can I access courses on mobile?",
+    "answer": "Yes. LearnMate works in mobile browsers, and the mobile app lets you watch enrolled course videos on supported devices.",
+    "tags": ["mobile", "app", "devices"]
+  },
+  {
+    "question": "Are the lessons live or recorded?",
+    "answer": "Most courses contain recorded lessons. Some instructor-led programs also include scheduled live sessions listed on the course page.",
+    "tags": ["lessons", "recorded", "live classes"]
+  },
+  {
+    "question": "How do I track my course progress?",
+    "answer": "Your dashboard shows the percentage completed for each enrolled course, including finished lessons, quizzes, and assignments.",
+    "tags": ["progress", "dashboard", "tracking"]
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "Use the Help section in your dashboard to open a support ticket, or email support@learnmate.example with your registered email address.",
+    "tags": ["support", "help", "contact"]
+  },
+  {
+    "question": "How do I change my email address?",
+    "answer": "Go to Account Settings, update the email address, and confirm the verification message sent to the new email.",
+    "tags": ["account", "email", "settings"]
+  },
+  {
+    "question": "Can instructors upload their own courses?",
+    "answer": "Yes. Approved instructors can use the Instructor Studio to upload lessons, quizzes, resources, and pricing details.",
+    "tags": ["instructor", "upload", "course creation"]
+  },
+  {
+    "question": "How do I cancel my subscription?",
+    "answer": "Open Billing Settings, choose Manage Subscription, and select Cancel Plan. Access remains active until the current billing period ends.",
+    "tags": ["subscription", "cancel", "billing"]
+  }
+]
